@@ -1,0 +1,2 @@
+• Knowlege  on git  ,jenkins 
+knowlege in Amazon Cloud Services and its features AWS EC2, VPC, Lambda, IAM and S3.
