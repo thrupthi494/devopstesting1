@@ -1,0 +1,28 @@
+About the job
+Responsibilities
+
+
+Build and maintain a scalable and secure infrastructure for cloud operations.
+Develop and maintain CI/CD pipelines to ensure proper software delivery to production.
+Work closely with Cloud Engineering and QA teams to ensure both CI/CD pipelines and monitored systems meet project requirements.
+Create automation tools to streamline product development processes and reporting (sprint status, project health, part tracking, cost modeling, etc.).
+Develop and maintain monitoring solutions that ensure proper application and infrastructure functionality.
+Help our Software Development teams achieve best-in-class practices, tools, and frameworks to allow the organization to quickly bring high quality products to market.
+Act as a potential point of contact for our Consumer Contact Center to help resolve occasional problems requiring escalation into engineering for backend support.
+Coordinate with Product Marketing to quickly pull together usage or performance data to answer non-recurring questions.
+Assist with alpha and beta testing of software by leveraging remote monitoring tools to assist with deployment, monitoring, and overall internal support.
+
+Bachelor’s degree in Computer Science, Computer Engineering, Software Engineering, or a related field is required.
+Minimum of 3 years of experience in development and operations environments performing software DevOps or Site Reliability Engineering roles is required.
+Previous experience with software development, infrastructure development, or development and operations.
+Experience programming in one or more of the following languages: Python, Java, Node.JS, Javascript, TypeScript, Go, and Swift/Objective C.
+Understanding of modern development and deployment patterns.
+Familiar with Sprints and Agile design philosophies and defect management tool automation (e.g. Jira).
+Experience with standard CI/CD pipeline products (e.g. Jenkins, AWS Code Pipeline, Azure DevOps, GitLab, Concourse) and version control tools (e.g. Perforce, Git).
+Familiar with serverless deployment (e.g. CloudFormation, Terraform, etc) and Infrastructure as Code.
+Experience building, supporting, and maintaining cloud infrastructure in AWS and Google Cloud including security considerations.
+Experience with serverless methodologies (AWS Lambda, Amazon S3, Amazon Cognito, Amazon API Gateway) as well as container orchestration systems like Kubernetes, AWS ECS, Docker Swarm, and Linux.
+Comfortable working with production and other development environments with an appropriately level of care.
+Strong interpersonal skills including creative thinking, clear communication, collaboration, and teamwork.
+Possess good problem solving skills, attention to detail, a continuous improvement mindset, and a strong drive to help a high performing team excel and bring innovative ideas and products to market.
+
